@@ -1,0 +1,2 @@
+model_checkpoint_path: "1_layer_sq_loss_2000_m_iter_50000_rs_42"
+all_model_checkpoint_paths: "1_layer_sq_loss_2000_m_iter_50000_rs_42"
